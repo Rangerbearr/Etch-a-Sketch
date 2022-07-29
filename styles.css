@@ -12,7 +12,10 @@ body{
 .content{
     width: 16px;
     height: 16px;
-    background-color: blue;
+    background-color: white;
+    border-style:solid;
+    border-width: thin;
+    border-color: black;
 }
 
 button{
@@ -29,4 +32,8 @@ button{
     height: 100vh;
 }
 
-
+.okok{
+    border-style: solid;
+    border-width: thick;
+    border-color: black;
+}
